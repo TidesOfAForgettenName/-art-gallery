@@ -8,4 +8,3 @@ welcome to my art page
 <img width="2000" height="2000" alt="Untitled27_20260526173940" src="https://github.com/user-attachments/assets/35be9ea4-c2b1-4848-a1fb-abed5fd4fa1c" />
 <img width="2000" height="2000" alt="Untitled37_20260528213451" src="https://github.com/user-attachments/assets/30be57bc-2979-41a9-9ea7-242a5028015c" />
 <img width="2000" height="1277" alt="Untitled41_20260608204513" src="https://github.com/user-attachments/assets/07d6be29-276b-4cf0-a250-fca0f63dbb91" />
-">
